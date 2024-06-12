@@ -1,6 +1,7 @@
-# aprendizajeAutomatico-p1
-Desarrollo de la práctica de Aprendizaje automático
+# Classification and Regression
+Classification and regression notebooks made for the subject Machine Learning. This notebooks use Python's scikit learn as the primary library for machine learning algorithms.
 
 ## Authors
-- CLopMan
-- ManuGPR
+
+- [Manuel Gómez Plana Rodríguez](https://github.com/ManuGPR)
+- [César López Mantecón](https://github.com/CLopMan/)
